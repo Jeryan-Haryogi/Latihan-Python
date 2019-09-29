@@ -40,8 +40,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tuple">
-    <configuration name="antrian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.import">
+    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="latihanpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/antrian.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="globalscope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="import" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="latihanpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/globalscope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="morearray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="looping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="latihanpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/morearray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/looping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="staking" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sethimpunan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="latihanpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/staking.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sethimpunan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.import" />
+        <item itemvalue="Python.looping" />
+        <item itemvalue="Python.dictionary" />
+        <item itemvalue="Python.sethimpunan" />
         <item itemvalue="Python.tuple" />
-        <item itemvalue="Python.antrian" />
-        <item itemvalue="Python.staking" />
-        <item itemvalue="Python.morearray" />
-        <item itemvalue="Python.globalscope" />
       </list>
     </recent_temporary>
   </component>
